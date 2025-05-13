@@ -1,4 +1,4 @@
-# 🛡️ Insider Threat Hunting: Suspicious File Archiving Investigation
+# 🛡️ Insider Threat Hunting: Suspected Data Exfiltration from PIP'd Employee
 
 ## Overview
 
